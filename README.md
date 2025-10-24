@@ -34,7 +34,7 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
   <a href="https://github.com/PraveenSharrma/Expenny" target="_blank">
     <img src= "https://img.shields.io/badge/GitHub%20Repo-3162a5?style=for-the-badge&logo=github&logoColor=white"/>  
   </a>  
-  <a href="https://expennytracker.netlify.app/" target="_blank">
+  <a href="https://expennytrack.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/Visit%20Site-28a745?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </p>
@@ -82,7 +82,7 @@ This full-stack app demonstrates secure user logins, persistent data storage, an
   <a href="https://github.com/PraveenSharrma/Brogram" target="_blank">
     <img src= "https://img.shields.io/badge/GitHub%20Repo-3162a5?style=for-the-badge&logo=github&logoColor=white"/>  
   </a>  
-  <a href="https://brogramworkout.netlify.app/" target="_blank">
+  <a href="https://brogramworkouts.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/Visit%20Site-28a745?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
       </p>
