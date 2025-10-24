@@ -6,11 +6,8 @@
   <a href="https://praveensharrma.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%232C2F33.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/praveenshrrma/" target="_blank">
+  <a href="https://www.linkedin.com/in/praveensharrma/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://praveensharrma.netlify.app/Resume_PraveenSharrma.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-%23FF0000.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
   </a>
 </p>
 
@@ -27,7 +24,7 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Expenny</h3>
         <br />
-        <a target="_blank" href="https://github.com/praveenshrrma/Converso-Saas">
+        <a target="_blank" href="https://github.com/PraveenSharrma/Expenny">
          <img src="https://github.com/PraveenSharrma/PraveenSharrma/blob/main/images/expenny.png" width="100%"/>
        
    </a>
