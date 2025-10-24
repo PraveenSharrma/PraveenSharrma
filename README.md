@@ -25,7 +25,7 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Converso</h3>
+      <h3 align="center">Expenny</h3>
         <br />
         <a target="_blank" href="https://github.com/praveenshrrma/Converso-Saas">
          <img src="images/2.jpg" width="100%"/>
@@ -41,9 +41,12 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
         <img src="https://img.shields.io/badge/Visit%20Site-28a745?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </p>
-    <p align="center"><strong>(Make sure to log in and choose free plan for full access)</strong></p>
+    <p align="center"><strong>(test login details in readme</strong></p>
       </p>
-        <p>Converso – A Full-Stack AI-Powered SaaS LMS platform built with Next.js, Supabase, Stripe, and Clerk. Features include subscription billing, AI voice tutors, and real-time learning sessions.</p>
+        <p>A real-time subscription tracker built with Next.js (App Router), Firebase Authentication, Firestore and CSS.
+This full-stack app demonstrates secure user logins, persistent data storage, and dynamic real-time updates.
+
+</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">SahandEstate Real Estate</h3>
