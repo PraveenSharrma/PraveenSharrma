@@ -54,9 +54,12 @@ This full-stack app demonstrates secure user logins, persistent data storage, an
         <br />
         <p align="center">
           
-  <a href="https://github.com/PraveenSharrma/Smolstore" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
+   <a href="https://github.com/PraveenSharrma/Expenny" target="_blank">
+    <img src= "https://img.shields.io/badge/GitHub%20Repo-3162a5?style=for-the-badge&logo=github&logoColor=white"/>  
+  </a>  
+  <a href="https://expennytracker.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Visit%20Site-28a745?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
       </p>
         <p>Smolstore is a fully functional full-stack online store built with Next.js & Stripe. It demonstrates modern web development skills with a complete product catalog, shopping cart, and secure Stripe payments.
 
