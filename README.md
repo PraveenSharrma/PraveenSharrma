@@ -28,7 +28,7 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
       <h3 align="center">Expenny</h3>
         <br />
         <a target="_blank" href="https://github.com/praveenshrrma/Converso-Saas">
-         <img src="images/2.jpg" width="100%"/>
+         <img src="https://github.com/PraveenSharrma/PraveenSharrma/blob/main/images/expenny.png" width="100%"/>
        
    </a>
         <br />
