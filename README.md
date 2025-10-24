@@ -46,7 +46,7 @@ This full-stack app demonstrates secure user logins, persistent data storage, an
 </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">SahandEstate Real Estate</h3>
+      <h3 align="center">Smolstore</h3>
         <br />
       <a target="_blank" href="https://github.com/praveenshrrma/SahandEstate-Real-Estate-Platform">
             <img src="images/gif.gif" width="100%"/>
@@ -54,11 +54,13 @@ This full-stack app demonstrates secure user logins, persistent data storage, an
         <br />
         <p align="center">
           
-  <a href="https://github.com/praveenshrrma/SahandEstate-Real-Estate-Platform" target="_blank">
+  <a href="https://github.com/PraveenSharrma/Smolstore" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p>SahandEstate is a full-stack real estate platform designed to facilitate seamless property listings, user management, and interactive features for both buyers and sellers.</p>
+        <p>Smolstore is a fully functional full-stack online store built with Next.js & Stripe. It demonstrates modern web development skills with a complete product catalog, shopping cart, and secure Stripe payments.
+
+</p>
     </td>
   </tr>
   
