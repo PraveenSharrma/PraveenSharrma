@@ -71,18 +71,19 @@ This full-stack app demonstrates secure user logins, persistent data storage, an
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">OrbitJobs Job Board</h3>
+      <h3 align="center">Brogram</h3>
       <br />
         <a target="_blank" href="https://github.com/praveenshrrma/OrbitJobs-Job-Board-Website">
-          <img src="images/1.gif" width="100%"/>
+          <img src="https://github.com/PraveenSharrma/PraveenSharrma/blob/main/images/brogram.png" width="100%"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/praveenshrrma/OrbitJobs-Job-Board-Website" target="_blank">
+  <a href="https://github.com/PraveenSharrma/Brogram" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p>An interactive and fully responsive Job Board Platform that simplifies recruitment. Businesses can efficiently create and manage job postings, while candidates can easily reach out to employers through email or phone.</p>
+        <p>Brogram is a focused 30-day workout training plan delivered through a clean, responsive web interface.
+Built using lightweight modern tools, the app makes it easy to follow a structured exercise routine and stay consistent.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">LAMA AI Chatbot App</h3>
