@@ -90,19 +90,23 @@ This full-stack app demonstrates secure user logins, persistent data storage, an
 Built using lightweight modern tools, the app makes it easy to follow a structured exercise routine and stay consistent.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">LAMA AI Chatbot App</h3>
+      <h3 align="center">My Portfolio</h3>
         <br />
-        <a target="_blank" href="https://github.com/praveenshrrma/LAMA-AI-Chatbot-App">
-          <img src="images/lama.gif" width="100%" />
+        <a target="_blank" href="https://github.com/PraveenSharrma/Web-Portfolio">
+          <img src="https://github.com/PraveenSharrma/PraveenSharrma/blob/main/images/portfolio.png" width="100%" />
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/praveenshrrma/LAMA-AI-Chatbot-App" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
+  <a href="https://github.com/PraveenSharrma/Web-Portfolio" target="_blank">
+    <img src= "https://img.shields.io/badge/GitHub%20Repo-3162a5?style=for-the-badge&logo=github&logoColor=white"/>  
+  </a>  
+  <a href="https://praveensharrma-portfolio.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Visit%20Site-28a745?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
       </p>
-        <p>This is a full-stack ChatGPT-like application, created to build an interactive and intelligent chatbot capable of real-time conversations, providing insightful responses to user queries.</p>
+        <p>Welcome to my personal portfolio!
+I'm a Full-Stack Software Engineer focused on building clean, user-friendly, and practical web experiences. This website showcases my skills, projects, and a bit about who I am.</p>
     </td>
   </tr>
 
