@@ -34,14 +34,14 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
         <br />
         <p align="center">
           
-  <a href="https://github.com/praveenshrrma/Converso-Saas" target="_blank">
+  <a href="https://github.com/PraveenSharrma/Expenny" target="_blank">
     <img src= "https://img.shields.io/badge/GitHub%20Repo-3162a5?style=for-the-badge&logo=github&logoColor=white"/>  
   </a>  
-  <a href="https://github.com/praveenshrrma/Converso-Saas" target="_blank">
+  <a href="https://expennytracker.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/Visit%20Site-28a745?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </p>
-    <p align="center"><strong>(test login details in readme</strong></p>
+    <p align="center"><strong>(test login details in README)</strong></p>
       </p>
         <p>A real-time subscription tracker built with Next.js (App Router), Firebase Authentication, Firestore and CSS.
 This full-stack app demonstrates secure user logins, persistent data storage, and dynamic real-time updates.
