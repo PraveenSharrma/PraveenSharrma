@@ -48,8 +48,8 @@ This full-stack app demonstrates secure user logins, persistent data storage, an
     <td width="50%" valign="top">
       <h3 align="center">Smolstore</h3>
         <br />
-      <a target="_blank" href="https://github.com/praveenshrrma/SahandEstate-Real-Estate-Platform">
-            <img src="images/gif.gif" width="100%"/>
+      <a target="_blank" href="https://github.com/PraveenSharrma/Smolstore">
+            <img src="https://github.com/PraveenSharrma/PraveenSharrma/blob/main/images/smolstore.png" width="100%"/>
         </a>
         <br />
         <p align="center">
