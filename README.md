@@ -14,7 +14,7 @@
 
 
 Full-Stack Software Engineer, I am driven by a passion for leveraging technology to solve real-world problems and create meaningful, user-centric solutions.
-Visit [my website](https://praveensharrma.netlify.app/) for more information!
+Visit [my website](https://praveensharrma-portfolio.netlify.app/) for more information!
 
 
 <h1 align="center">Projects</h1>
