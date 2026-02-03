@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://praveensharrma.netlify.app/" target="_blank">
+  <a href="https://praveensharrma-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%232C2F33.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/praveensharrma/" target="_blank">
