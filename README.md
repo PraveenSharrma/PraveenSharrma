@@ -305,29 +305,6 @@ Turn findings<br>into action.
 
 <div align="center">
 
-# 📈 THE ACTIVITY
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=PraveenSharrma&show_icons=true&hide_border=true&bg_color=050816&title_color=60A5FA&text_color=CBD5E1&icon_color=A78BFA&rank_icon=github&include_all_commits=true" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenSharrma&hide_border=true&background=050816&ring=7C3AED&fire=60A5FA&currStreakLabel=60A5FA" height="170"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenSharrma&bg_color=050816&color=60A5FA&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:172554,100:312E81&height=2&section=header"/>
-
-<br>
 
 # ✦ BEYOND THE DASHBOARD
 
