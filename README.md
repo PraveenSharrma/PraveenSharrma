@@ -1,13 +1,3 @@
-Absolutely. If the profile is meant to position you primarily as a **Data Analyst / Data Scientist**, I would remove **Computer Science entirely** and make the branding much more focused and professional.
-
-The strongest positioning would be:
-
-**DATA ANALYST · DATA SCIENCE · BUSINESS INTELLIGENCE**
-
-rather than mentioning CS.
-
-For the opening, I'd change it to:
-
 <div align="center">
 
 # PRAVEEN SHARRMA
