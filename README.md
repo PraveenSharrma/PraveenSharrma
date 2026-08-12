@@ -6,11 +6,7 @@
 
 <br><br>
 
-<a href="https://github.com/PraveenSharrma">
-<img src="https://img.shields.io/badge/GITHUB-PRAVEENSHARRMA-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/praveenshrrma/">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
