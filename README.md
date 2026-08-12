@@ -4,15 +4,9 @@
 
 <br>
 
-<a href="https://github.com/PraveenSharrma">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/praveenshrrma/)">
 
- 
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 <br><br>
 
@@ -350,23 +344,6 @@ Turn findings<br>into action.
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=17&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Keep+learning.;Keep+building.;Keep+asking+better+questions." />
 
-<br><br>
-
-<a href="https://github.com/PraveenSharrma">
-
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
- 
-
-<a href="YOUR_LINKEDIN_URL">
-
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-<br><br>
 
 <sub>© 2026 Praveen Sharrma · Built with data & curiosity.</sub>
 
