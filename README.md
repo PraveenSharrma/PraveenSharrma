@@ -5,6 +5,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+meaningful+insights.;Finding+patterns+hidden+inside+data.;Building+analytics+that+drive+better+decisions.;Explore.+Analyse.+Visualise.+Impact." />
 
 <a href="https://www.linkedin.com/in/praveenshrrma/">
+
+ <br></br>
+ 
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
