@@ -62,7 +62,6 @@ I enjoy working with real-world datasets where the goal isn't simply to produce 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge"/>
-
 </div>
 
 ---
