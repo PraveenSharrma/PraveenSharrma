@@ -4,15 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+meaningful+insights.;Finding+patterns+hidden+inside+data.;Building+analytics+that+drive+better+decisions.;Explore.+Analyse.+Visualise.+Impact." />
 
-<br><br>
-
 <a href="https://www.linkedin.com/in/praveenshrrma/">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=PraveenSharrma&style=for-the-badge&color=1D4ED8&label=PROFILE+VIEWS"/>
 
 </div>
 
