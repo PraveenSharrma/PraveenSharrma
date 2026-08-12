@@ -1,31 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0F172A,45:1D4ED8,70:7C3AED,100:06B6D4&height=280&section=header&text=PRAVEEN%20SHARRMA&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYTICS%20%20%E2%80%A2%20%20DATA%20SCIENCE%20%20%E2%80%A2%20%20BUSINESS%20INTELLIGENCE&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111827,100:2563EB&height=220&section=header&text=PRAVEEN%20SHARRMA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20DATA%20SCIENCE%20%7C%20BUSINESS%20INTELLIGENCE&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+meaningful+insights.;Finding+patterns+hidden+inside+data.;Building+analytics+that+drive+better+decisions.;Explore.+Analyse.+Visualise.+Impact." />
+<br>
 
-<a href="https://www.linkedin.com/in/praveenshrrma/">
-
- <br></br>
- 
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/PraveenSharrma">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+ 
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+meaningful+insights.;Finding+patterns+hidden+inside+data.;Building+analytics+that+drive+better+decisions.;Always+learning.+Always+building." />
+
 </div>
 
 ---
 
 <div align="center">
 
-# ◈ DATA → INSIGHT → IMPACT
+# ✦ DATA → INSIGHT → IMPACT ✦
 
-### I turn data into **patterns, stories and decisions.**
+### I turn messy datasets into **clear stories, measurable insights and better decisions.**
 
 <br>
 
-<img src="https://img.shields.io/badge/DATA%20ANALYTICS-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DATA%20SCIENCE-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BUSINESS%20INTELLIGENCE-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DATA%20ANALYTICS-0F172A?style=for-the-badge&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/DATA%20SCIENCE-0F172A?style=for-the-badge&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/BUSINESS%20INTELLIGENCE-0F172A?style=for-the-badge&logoColor=22D3EE"/>
 
 </div>
 
@@ -33,87 +40,44 @@
 
 ---
 
-# `01` — ABOUT
+## ◈ ABOUT
 
-I'm **Praveen Sharrma**, an aspiring **Data Analyst / Data Scientist** passionate about discovering what data can reveal.
+I'm **Praveen Sharrma**, an aspiring **Data Analyst / Data Scientist** focused on transforming raw information into useful intelligence.
 
-I enjoy taking raw datasets and transforming them through **cleaning, exploration, analysis and visualisation** into insights that are easier to understand and act upon.
+My work revolves around:
 
-My projects focus on practical questions across **customer behaviour, retail performance and market pricing**.
+`DATA CLEANING` → `EXPLORATION` → `ANALYSIS` → `VISUALISATION` → `INSIGHT`
 
-### My mindset
-
-```text
-ASK
- ↓
-EXPLORE
- ↓
-CLEAN
- ↓
-ANALYSE
- ↓
-VISUALISE
- ↓
-UNDERSTAND
- ↓
-IMPACT
-```
-
-> **Good analysis doesn't just describe what happened. It helps explain why.**
+I enjoy working with real-world datasets where the goal isn't simply to produce charts — it's to **understand what the data is actually saying**.
 
 ---
 
-# `02` — THE TOOLKIT
-
 <div align="center">
 
-### 🐍 ANALYTICS
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+# ⚡ THE TOOLKIT
 
 <br>
+
+<img src="https://skillicons.dev/icons?i=python,postgresql,git,github,jupyter,vscode&theme=dark" />
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-0EA5E9?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge"/>
-
-<br><br>
-
-### 🗄️ DATA & DATABASES
-
-<img src="https://skillicons.dev/icons?i=postgresql&theme=dark"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/SQL-0EA5E9?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<br><br>
-
-### 📊 BUSINESS INTELLIGENCE
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827"/>
-
-<br><br>
-
-### 🛠️ TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode&theme=dark"/>
 
 </div>
 
 ---
 
-# `03` — SELECTED WORK
-
 <div align="center">
 
-## THREE PROJECTS · THREE DATA STORIES
+# 🚀 SELECTED PROJECTS
 
-<br>
-
-**Customer Behaviour**  •  **Market Pricing**  •  **Retail Performance**
+### Three datasets. Three questions. One goal — finding the story inside the data.
 
 </div>
 
@@ -126,7 +90,7 @@ IMPACT
 
 <div align="center">
 
-<img src="https://img.icons8.com/fluency/96/shopping-bag.png" width="65"/>
+<img src="https://img.icons8.com/fluency/96/shopping-cart.png" width="55"/>
 
 # CUSTOMER
 
@@ -134,29 +98,21 @@ IMPACT
 
 ### BEHAVIOR ANALYSIS
 
-<img src="https://img.shields.io/badge/ANALYTICS-0EA5E9?style=flat-square"/>
+<br>
+
+<img src="https://img.shields.io/badge/DATA%20ANALYTICS-2563EB?style=flat-square"/>
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/DATA-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-0EA5E9?style=flat-square"/>
 
 </div>
 
 ---
 
-### THE QUESTION
+### ◉ THE QUESTION
 
-**What can customer behaviour tell us about purchasing patterns?**
+**What does customer behaviour reveal about purchasing patterns?**
 
-An analytical exploration of customer shopping behaviour, designed to uncover meaningful patterns within purchasing data.
-
-### FOCUS
-
-`CUSTOMERS`
-
-`PURCHASING`
-
-`BEHAVIOUR`
-
-`PATTERNS`
+A focused analytics project exploring customer shopping behaviour and extracting patterns that can support better understanding of purchasing decisions.
 
 <br>
 
@@ -164,7 +120,7 @@ An analytical exploration of customer shopping behaviour, designed to uncover me
 
 <a href="https://github.com/PraveenSharrma/Customer-Shopping-Behavior-Analysis">
 
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -176,13 +132,15 @@ An analytical exploration of customer shopping behaviour, designed to uncover me
 
 <div align="center">
 
-<img src="https://img.icons8.com/fluency/96/city-buildings.png" width="65"/>
+<img src="https://img.icons8.com/fluency/96/city-buildings.png" width="55"/>
 
 # NEW YORK
 
 # AIRBNB
 
 ### MARKET PRICING
+
+<br>
 
 <img src="https://img.shields.io/badge/EDA-7C3AED?style=flat-square"/>
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -192,21 +150,11 @@ An analytical exploration of customer shopping behaviour, designed to uncover me
 
 ---
 
-### THE QUESTION
+### ◉ THE QUESTION
 
 **What drives Airbnb pricing across New York?**
 
-Explored **20,765 listings and 22 features**, investigating pricing, neighbourhoods, room types, availability and host behaviour.
-
-### FOCUS
-
-`PRICE`
-
-`LOCATION`
-
-`ROOM TYPE`
-
-`AVAILABILITY`
+Explored **20,765 listings and 22 features**, analysing pricing, neighbourhoods, room types, availability, reviews and host behaviour.
 
 <br>
 
@@ -214,7 +162,7 @@ Explored **20,765 listings and 22 features**, investigating pricing, neighbourho
 
 <a href="https://github.com/PraveenSharrma/New-York-Airbnb-Market-Pricing-Analysis">
 
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -226,7 +174,7 @@ Explored **20,765 listings and 22 features**, investigating pricing, neighbourho
 
 <div align="center">
 
-<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="65"/>
+<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="55"/>
 
 # WALMART
 
@@ -234,29 +182,22 @@ Explored **20,765 listings and 22 features**, investigating pricing, neighbourho
 
 ### SALES ANALYTICS
 
-<img src="https://img.shields.io/badge/BI-06B6D4?style=flat-square"/>
-<img src="https://img.icons8.com/color/48/python.png" width="18"/>
-<img src="https://img.icons8.com/color/48/postgreesql.png" width="18"/>
+<br>
+
+<img src="https://img.shields.io/badge/BI%20%26%20ANALYTICS-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 
 </div>
 
 ---
 
-### THE QUESTION
+### ◉ THE QUESTION
 
 **What drives retail revenue and profitability?**
 
-An end-to-end retail analytics project examining product, branch, customer, payment and time-based performance.
-
-### FOCUS
-
-`REVENUE`
-
-`PROFITABILITY`
-
-`PRODUCTS`
-
-`CUSTOMERS`
+An end-to-end retail analytics project focused on uncovering **product, branch, customer, payment and time-based performance patterns**.
 
 <br>
 
@@ -264,7 +205,7 @@ An end-to-end retail analytics project examining product, branch, customer, paym
 
 <a href="https://github.com/PraveenSharrma/Walmart-Retail-Sales-Analytics">
 
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -277,180 +218,160 @@ An end-to-end retail analytics project examining product, branch, customer, paym
 
 ---
 
-<div align="center">
-
-### ↳ EXPLORE THE FULL PROJECTS
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,50:7C3AED,100:06B6D4&height=3&section=header" width="80%"/>
-
-</div>
-
----
-
-# `04` — MY DATA WORKFLOW
+<br>
 
 <div align="center">
+
+# 📊 HOW I APPROACH DATA
+
+<br>
 
 <table>
 <tr>
 
-<td align="center" width="16%">
+<td align="center">
 
 ### 01
 
 🔎
 
-**DEFINE**
+**DISCOVER**
 
-Question
+Understand the<br>business question.
 
 </td>
 
-<td align="center">→</td>
-
-<td align="center" width="16%">
+<td align="center">
 
 ### 02
 
 🧹
 
-**CLEAN**
+**PREPARE**
 
-Data
+Clean, validate<br>& transform.
 
 </td>
 
-<td align="center">→</td>
-
-<td align="center" width="16%">
+<td align="center">
 
 ### 03
 
-📐
+📈
 
-**EXPLORE**
+**ANALYSE**
 
-Patterns
+Find patterns,<br>relationships & trends.
 
 </td>
 
-<td align="center">→</td>
-
-<td align="center" width="16%">
+<td align="center">
 
 ### 04
-
-📊
-
-**VISUALISE**
-
-Trends
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center" width="16%">
-
-### 05
 
 💡
 
 **INSIGHT**
 
-Meaning
+Turn findings<br>into action.
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
 <br>
 
-<div align="center">
-
-`QUESTION` → `DATA` → `ANALYSIS` → `VISUALISATION` → `DECISION`
+`━━━━━━━━━━━ ❯ ━━━━━━━━━━━ ❯ ━━━━━━━━━━━ ❯ ━━━━━━━━━━━`
 
 </div>
 
 ---
 
-# `05` — CURRENTLY EXPLORING
-
 <div align="center">
 
+# 🧠 CURRENTLY EXPLORING
+
+<br>
+
 <img src="https://img.shields.io/badge/Advanced%20SQL-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Statistics-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistics-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-6366F1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Engineering-06B6D4?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Learning+something+new+every+day.;Building+better+analytical+solutions.;Going+beyond+the+dashboard." />
+### `LEARN`  →  `BUILD`  →  `ANALYSE`  →  `IMPROVE`
 
 </div>
 
 ---
 
-# `06` — GITHUB ACTIVITY
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PraveenSharrma&show_icons=true&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=CBD5E1&icon_color=A78BFA&rank_icon=github&include_all_commits=true" height="175"/>
+# 📈 THE ACTIVITY
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenSharrma&hide_border=true&background=020617&ring=7C3AED&fire=06B6D4&currStreakLabel=60A5FA" height="175"/>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=PraveenSharrma&show_icons=true&hide_border=true&bg_color=050816&title_color=60A5FA&text_color=CBD5E1&icon_color=A78BFA&rank_icon=github&include_all_commits=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenSharrma&hide_border=true&background=050816&ring=7C3AED&fire=60A5FA&currStreakLabel=60A5FA" height="170"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenSharrma&bg_color=020617&color=60A5FA&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenSharrma&bg_color=050816&color=60A5FA&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
+<br>
+
 <div align="center">
 
-# `07` — THE DIRECTION
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:172554,100:312E81&height=2&section=header"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=DATA+ANALYTICS;DATA+SCIENCE;MACHINE+LEARNING;ARTIFICIAL+INTELLIGENCE" />
+# ✦ BEYOND THE DASHBOARD
+
+### Data isn't just numbers.
+
+### It's behaviour.
+
+### It's decisions.
+
+### It's opportunity.
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=17&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Keep+learning.;Keep+building.;Keep+asking+better+questions." />
 
 <br><br>
-
-### ANALYSE.
-
-### UNDERSTAND.
-
-### BUILD.
-
-### IMPROVE.
-
-<br>
-
-I'm continuously expanding my ability to turn **data into intelligence** and intelligence into **impact**.
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:06B6D4,50:2563EB,100:7C3AED&height=100&section=footer&animation=twinkling" width="100%"/>
-
-<br>
 
 <a href="https://github.com/PraveenSharrma">
 
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+ 
+
+<a href="YOUR_LINKEDIN_URL">
+
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </a>
 
 <br><br>
 
-<sub>© 2026 Praveen Sharrma · Data, curiosity & continuous learning.</sub>
+<sub>© 2026 Praveen Sharrma · Built with data & curiosity.</sub>
 
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:111827,100:050816&height=120&section=footer" width="100%"/>
