@@ -1,140 +1,334 @@
+Absolutely. If the profile is meant to position you primarily as a **Data Analyst / Data Scientist**, I would remove **Computer Science entirely** and make the branding much more focused and professional.
+
+The strongest positioning would be:
+
+**DATA ANALYST · DATA SCIENCE · BUSINESS INTELLIGENCE**
+
+rather than mentioning CS.
+
+For the opening, I'd change it to:
+
 <div align="center">
 
-# 👋 Hi, I'm Praveen Sharrma
+# PRAVEEN SHARRMA
 
-### Data Analyst • Data Scientist • Computer Science Enthusiast
+### `DATA ANALYST` · `DATA SCIENCE` · `BUSINESS INTELLIGENCE`
 
-Turning **data into insights, problems into solutions, and ideas into impact.**
+**Turning data into insights. Building solutions that matter.**
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/PraveenSharrma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=googlechrome\&logoColor=white)](YOUR_PORTFOLIO_URL)
+<a href="https://github.com/PraveenSharrma">
+<img src="https://img.shields.io/badge/GitHub-@PraveenSharrma-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=PraveenSharrma&style=for-the-badge&label=PROFILE+VIEWS">
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
 
-I'm a **Computer Science enthusiast focused on Data Analytics, Data Science and AI**.
+## `01` — DATA. INSIGHTS. IMPACT.
 
-I enjoy transforming raw data into meaningful insights through **data cleaning, exploratory analysis, SQL, visualization and statistical reasoning**.
+</div>
 
-Currently building projects that combine **programming, analytics and business intelligence** to solve real-world problems.
+I work with data to uncover **patterns, trends and insights that support better decisions**.
 
-> **"Data is only valuable when it leads to better decisions."**
+My projects focus on transforming raw and complex datasets into meaningful outcomes through **data cleaning, exploratory analysis, SQL, statistical analysis, data visualisation and business intelligence**.
 
----
+I'm continuously developing my capabilities across **Data Analytics, Data Science, Machine Learning and AI**, with a focus on solving practical, real-world problems.
 
-## ⚡ What I Do
-
-|   🔍 Data Analytics   |      🧠 Data Science      | 💻 Development |
-| :-------------------: | :-----------------------: | :------------: |
-|     Data Cleaning     | Exploratory Data Analysis |     Python     |
-|      SQL Analysis     |    Statistical Analysis   |      Java      |
-| Business Intelligence |    Predictive Analytics   |  Git & GitHub  |
-|   Data Visualization  |      Machine Learning     |   PostgreSQL   |
+> **Raw data is everywhere. Meaningful insight is not.**
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### Languages
+## `02` — MY TOOLKIT
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+### ANALYTICS
 
-### Data & Analytics
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
+### DATABASES & BI
 
-### Tools
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode&theme=dark">
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
 
-### 🛒 Walmart Retail Sales Analytics
+## `03` — SELECTED WORK
 
-**Python • Pandas • SQL • PostgreSQL • Power BI**
+### DATA PROJECTS BUILT TO ANSWER REAL QUESTIONS
 
-Analyzed retail transaction data to identify **revenue, profitability, customer, product, branch and payment trends**.
+</div>
 
-Built an end-to-end analytics workflow covering:
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<div align="center">
+
+### 🛒
+
+## WALMART
+
+### RETAIL SALES ANALYTICS
+
+`PYTHON` · `SQL` · `POSTGRESQL` · `POWER BI`
+
+</div>
+
+---
+
+**From transactions → insights.**
+
+An end-to-end retail analytics project analysing **revenue, profitability, products, branches, customers, payments and time-based performance**.
+
+**Built**
 
 * Data cleaning & validation
-* Exploratory data analysis
-* SQL-based analysis
-* PostgreSQL data pipeline
-* Business intelligence dashboards
-* Revenue & profitability insights
+* Exploratory analysis
+* SQL analysis
+* PostgreSQL pipeline
+* Power BI reporting
+* Business insights
 
-🔗 **[View Project →](YOUR_WALMART_REPOSITORY_URL)**
-
----
-
-### 📊 More Projects Coming Soon
-
-> Building a portfolio focused on **real-world datasets, business problems and measurable insights.**
-
----
-
-## 📈 GitHub Activity
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PraveenSharrma&show_icons=true&hide_border=true&rank_icon=github" height="165">
+<a href="YOUR_WALMART_REPO_URL">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenSharrma&hide_border=true" height="165">
+</div>
+
+</td>
+
+<td width="33%" valign="top">
+
+<div align="center">
+
+### 📊
+
+## PROJECT
+
+### TWO
+
+`PYTHON` · `SQL` · `ANALYTICS`
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+**From raw data → meaningful patterns.**
 
-```text
-Data Analytics       ████████████████████░  90%
-Python               ███████████████████░░  85%
-SQL                  ███████████████████░░  85%
-Data Visualization   ██████████████████░░░  80%
-Data Science         ███████████████░░░░░  70%
-Machine Learning     ████████████░░░░░░░░  60%
-```
+A data analytics project focused on extracting insights, identifying trends and communicating findings through data.
 
----
+**Built**
 
-## 🌱 Currently Learning
+* Data preparation
+* Exploratory analysis
+* SQL queries
+* Visualisation
+* Insight generation
 
-* Advanced SQL
-* Machine Learning
-* Statistical Analysis
-* Data Engineering
-* Artificial Intelligence
-* Advanced Power BI
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with people interested in:
-
-**Data • AI • Technology • Analytics • Computer Science • Innovation**
+<br>
 
 <div align="center">
 
-### Thanks for visiting! ⭐
+<a href="YOUR_PROJECT_2_REPO_URL">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-*Feel free to explore my repositories and follow my journey.*
+</div>
+
+</td>
+
+<td width="33%" valign="top">
+
+<div align="center">
+
+### 🤖
+
+## PROJECT
+
+### THREE
+
+`PYTHON` · `ML` · `DATA SCIENCE`
+
+</div>
+
+---
+
+**From data → predictive intelligence.**
+
+A data science project exploring how analytical and machine learning techniques can be applied to solve a real-world problem.
+
+**Built**
+
+* Data preparation
+* Feature analysis
+* Model development
+* Evaluation
+* Visualisation
+
+<br>
+
+<div align="center">
+
+<a href="YOUR_PROJECT_3_REPO_URL">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `04` — MY APPROACH TO DATA
+
+</div>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 01
+
+## 🔎
+
+**DISCOVER**
+
+Define the question and understand the data.
+
+</td>
+
+<td align="center" width="25%">
+
+### 02
+
+## 🧹
+
+**PREPARE**
+
+Clean, validate and transform.
+
+</td>
+
+<td align="center" width="25%">
+
+### 03
+
+## 📈
+
+**ANALYSE**
+
+Find patterns, trends and relationships.
+
+</td>
+
+<td align="center" width="25%">
+
+### 04
+
+## 💡
+
+**DELIVER**
+
+Turn analysis into actionable insight.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `05` — CURRENTLY EXPLORING
+
+<img src="https://img.shields.io/badge/Data%20Analytics-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/Data%20Science-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/Machine%20Learning-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/Business%20Intelligence-111111?style=for-the-badge">
+
+<br><br>
+
+**Python** · **SQL** · **Statistics** · **Visualisation** · **Machine Learning** · **BI**
+
+</div>
+
+---
+
+<div align="center">
+
+## `06` — GITHUB ACTIVITY
+
+<br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PraveenSharrma&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true">
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenSharrma&hide_border=true">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenSharrma&hide_border=true&area=true">
+
+</div>
+
+---
+
+<div align="center">
+
+## `07` — WHAT'S NEXT?
+
+### ANALYSE → LEARN → BUILD → IMPROVE
+
+I'm building a portfolio around **data-driven problem solving**, continuously expanding from analytics into **data science, machine learning and AI**.
+
+<br>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br><br>
+
+⭐ **Explore the repositories. Follow the data. Discover the insights.**
+
+<br><br>
+
+<sub>Designed & built by <b>Praveen Sharrma</b> · 2026</sub>
 
 </div>
