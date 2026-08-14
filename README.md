@@ -2,12 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111827,100:2563EB&height=220&section=header&text=PRAVEEN%20SHARRMA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20DATA%20SCIENCE%20%7C%20BUSINESS%20INTELLIGENCE&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
 
-<br>
-
-<a href="[https://www.linkedin.com/in/praveenshrrma/]">
-
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+meaningful+insights.;Finding+patterns+hidden+inside+data.;Building+analytics+that+drive+better+decisions.;Always+learning.+Always+building." />
