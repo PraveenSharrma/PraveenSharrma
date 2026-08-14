@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/praveenshrrma/)">
+<a href="[https://www.linkedin.com/in/praveenshrrma/](https://www.linkedin.com/in/praveenshrrma/)">
 
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
